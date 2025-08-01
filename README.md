@@ -42,39 +42,6 @@ This research focuses on solving the extrinsic calibration problem between LiDAR
 
 ## Installation
 
-```bash
-# Clone the repository
+bash
 git clone https://github.com/DeeplFeuerwerk/Jiahui-Wan-Research-Projects.git
 cd Jiahui-Wan-Research-Projects
-
-## Citation
-
-If you use this work in your research, please cite our papers:
-
-```bibtex
-@article{paper1_localization_2024,
-    title={LiDAR-Fisheye Fusion Method for Target Localization in Autonomous Following Vehicles},
-    author={Your Name},
-    journal={Journal Name},
-    year={2024}
-}
-
-@article{paper2_calibration_2024,
-    title={Deep Learning-Based Extrinsic Calibration for LiDAR and Fisheye Camera Integration},
-    author={Your Name},
-    journal={Journal Name},
-    year={2024}
-}
-
-## Contact
-
-- **Author**: [Your Name]
-- **Email**: your.email@institution.edu
-- **Institution**: Your Institution
-- **Project Link**: https://github.com/yourusername/lidar-fisheye-integration
-
-## Acknowledgments
-
-- Autonomous driving research community
-- Open-source LiDAR and computer vision libraries
-- Funding support from [Your Funding Agency]
