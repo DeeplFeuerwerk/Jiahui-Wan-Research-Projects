@@ -41,7 +41,5 @@ This research focuses on solving the extrinsic calibration problem between LiDAR
 - Demonstrates high reliability across diverse practical scenarios
 
 ## Installation
-
-# Clone the repository
 - git clone https://github.com/DeeplFeuerwerk/Jiahui-Wan-Research-Projects.git
 - cd Jiahui-Wan-Research-Projects
